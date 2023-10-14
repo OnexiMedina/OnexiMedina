@@ -1,5 +1,5 @@
 # 🌴Onexi🧑🏻‍💻
-*Hey!* I'm a developer from three areas of the US (. I have been learning **UX/UI Design** concepts for the past **2**  years. I am currently diving into more **Open Source Research**.
+*Hey!* I'm a developer from three areas of the US. I have been learning **UX/UI Design** concepts for the past **2**  years. I am currently diving into more **Open Source Research**.
 
 ### Contact me
 <a href="medinaonexi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/oneximedina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
